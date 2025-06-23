@@ -11,4 +11,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0135-candy](https://github.com/islamsaeed9854/LeetCode/tree/master/0135-candy) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/islamsaeed9854/LeetCode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
