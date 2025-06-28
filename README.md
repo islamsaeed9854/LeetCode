@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0135-candy](https://github.com/islamsaeed9854/LeetCode/tree/master/0135-candy) |
 | [0380-insert-delete-getrandom-o1](https://github.com/islamsaeed9854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/islamsaeed9854/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Greedy
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/islamsaeed9854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/islamsaeed9854/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/islamsaeed9854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Sliding Window
+|  |
+| ------- |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/islamsaeed9854/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
