@@ -1,11 +1,9 @@
-# Write your MySQL query statement below
- 
-select q.person_name
-from Queue q
-    where (1000 >= (select sum(weight)
-    from Queue
-    where turn <= q.turn
-    order by turn ))
-order by turn desc
-limit 1
 
+with running_sum as(
+select *, sum(weight) over ( order by turn ) AS cumulative_sum
+from queue)
+select person_name 
+from running_sum
+where cumulative_sum <= 1000
+order by turn   desc
+limit 1
