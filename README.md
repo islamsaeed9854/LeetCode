@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/islamsaeed9854/LeetCode/tree/master/0180-consecutive-numbers) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/islamsaeed9854/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 ## Hash Table
 |  |
 | ------- |
