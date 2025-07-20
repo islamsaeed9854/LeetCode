@@ -3,7 +3,10 @@ public:
     void reverseString(vector<char>& s) {
         int st = 0 ;
         while(st < s.size()-st-1){
-            swap(s[st],s[s.size()-st-1]);
+           // swap(s[st],s[s.size()-st-1]);
+           s[st] += s[s.size()-st-1];
+           s[s.size()-st-1] = s[st] - s[s.size()-st-1];
+           s[st]-=s[s.size()-st-1];
             st++;
         }
     }
