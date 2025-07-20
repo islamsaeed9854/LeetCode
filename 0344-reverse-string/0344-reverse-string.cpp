@@ -6,5 +6,7 @@ public:
             swap(s[st],s[end]);
             st++,end--;
         }
+
+     
     }
 };
