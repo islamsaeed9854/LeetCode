@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
+| [0263-ugly-number](https://github.com/islamsaeed9854/LeetCode/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/islamsaeed9854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
