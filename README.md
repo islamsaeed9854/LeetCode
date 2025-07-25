@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
 | [0263-ugly-number](https://github.com/islamsaeed9854/LeetCode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/islamsaeed9854/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/islamsaeed9854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
@@ -54,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/islamsaeed9854/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/islamsaeed9854/LeetCode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/islamsaeed9854/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
