@@ -5,10 +5,14 @@ public:
     int mx = 00;
     sort(citations.begin(), citations.end());
     reverse(citations.begin(), citations.end());
-    for (int i = 0; i < sz; i++) {
-        if (i + 1 <= citations[i]) {
-            mx = i + 1;
+    int st = 0, end = sz - 1;
+    while (st <= end) {
+        int mid = (st + end) / 2;
+        if (citations[mid] >= mid + 1) {
+            mx = mid+1;
+            st = mid + 1;
         }
+        else end = mid - 1;
     }
     return mx;
 }
