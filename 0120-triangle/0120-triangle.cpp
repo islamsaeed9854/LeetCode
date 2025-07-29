@@ -2,7 +2,7 @@ class Solution {
 public:
    int solve(int row, int col,int rows, vector<vector<int>>& triangle, vector < vector<int>>&memo) {
     if (row >= rows-1)return triangle[row][col];
-    if (col<0 || col> row)return 1e9;
+
     if (memo[row][col] != -2)
         return memo[row][col];
 
