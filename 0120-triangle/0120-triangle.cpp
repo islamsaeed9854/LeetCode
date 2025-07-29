@@ -1,18 +1,17 @@
 class Solution {
 public:
-   int solve(int row, int col,int rows, vector<vector<int>>& triangle, vector < vector<int>>&memo) {
-    if (row >= rows-1)return triangle[row][col];
-    if (memo[row][col] != -2)
-        return memo[row][col];
-
-    
-    int m1 =  triangle[row][col]  +  solve(row + 1, col , rows , triangle,memo);
-    int m2 =  triangle[row][col]  +  solve(row + 1, col + 1,rows,triangle,memo);
-   
-    return memo[row][col] = min(m1,m2);
-}
-int minimumTotal(vector<vector<int>>& triangle) {
-    vector < vector<int>>memo(205,vector<int>(triangle.size(), -2 ));
-    return solve(0, 0,triangle.size(),triangle,memo);
-}
+   int minimumTotal(vector<vector<int>>& triangle) {
+		int n = triangle.size();
+		vector<vector<int>>dp(n, vector<int>(n, -1));
+		for(int i = 0; i < n; i++) 
+			dp[n-1][i] = triangle[n-1][i];
+		for(int i = n-2; i >= 0; i--) {
+			for(int j = i; j >= 0; j--) {
+				int up = triangle[i][j] + dp[i+1][j];
+				int up_left = triangle[i][j] + dp[i+1][j+1];
+				dp[i][j] = min(up, up_left);
+			}
+		}
+		return dp[0][0];
+	}
 };
