@@ -3,7 +3,7 @@ public:
    int solve(int row, int col,int rows, vector<vector<int>>& triangle, vector < vector<int>>&memo) {
     if (row >= rows-1)return triangle[row][col];
     if (col<0 || col> row)return 1e9;
-    if (memo[row][col] != 1e9)
+    if (memo[row][col] != -1e9)
         return memo[row][col];
 
     int mx = 1e9;
@@ -13,7 +13,7 @@ public:
     return memo[row][col] = mx;
 }
 int minimumTotal(vector<vector<int>>& triangle) {
-    vector < vector<int>>memo(205,vector<int>(205, 1e9 ));
+    vector < vector<int>>memo(205,vector<int>(205, -1e9 ));
     return solve(0, 0,triangle.size(),triangle,memo);
 }
 };
