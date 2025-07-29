@@ -12,7 +12,7 @@ public:
     return memo[row][col] = min(m1,m2);
 }
 int minimumTotal(vector<vector<int>>& triangle) {
-    vector < vector<int>>memo(205,vector<int>(205, -2 ));
+    vector < vector<int>>memo(205,vector<int>(triangle.size(), -2 ));
     return solve(0, 0,triangle.size(),triangle,memo);
 }
 };
