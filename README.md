@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/islamsaeed9854/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/islamsaeed9854/LeetCode/tree/master/0135-candy) |
 | [0274-h-index](https://github.com/islamsaeed9854/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/islamsaeed9854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/islamsaeed9854/LeetCode/tree/master/0274-h-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/islamsaeed9854/LeetCode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
