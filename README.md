@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/islamsaeed9854/LeetCode/tree/master/1258-article-views-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/islamsaeed9854/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/islamsaeed9854/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/islamsaeed9854/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2057-count-salary-categories](https://github.com/islamsaeed9854/LeetCode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/islamsaeed9854/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Hash Table
