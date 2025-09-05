@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+
 
 
 with my_table as 
