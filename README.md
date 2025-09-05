@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/islamsaeed9854/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/islamsaeed9854/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [2057-count-salary-categories](https://github.com/islamsaeed9854/LeetCode/tree/master/2057-count-salary-categories) |
+| [2087-confirmation-rate](https://github.com/islamsaeed9854/LeetCode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/islamsaeed9854/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Hash Table
 |  |
