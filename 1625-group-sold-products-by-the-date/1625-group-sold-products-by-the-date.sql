@@ -1,6 +1,11 @@
-select a.sell_date
-   , count(a.product) num_sold
-   , string_agg(a.product,',')  products
-from (select distinct sell_date,product from activities) a
-group by a.sell_date
-order by a.sell_date
+
+with CTE as
+(
+  select sell_date , product
+  from Activities 
+  group by sell_date , product
+)
+select sell_date , count(product) num_sold ,string_agg(product,',') products    
+from CTE 
+group by sell_date  
+order by sell_date
