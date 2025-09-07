@@ -1,14 +1,15 @@
 /* Write your T-SQL query statement below */
 
-
-
-with CTE as
+with Customer_count as
 (
-   select customer_id , product_key 
-   from Customer 
-   group by customer_id , product_key 
+    select customer_id , count(distinct product_key ) cnt
+    from Customer 
+    group by customer_id
+),Product_cnt as
+(
+   select count(*) cnt from  Product 
 )
 select customer_id 
-from CTE 
-group by customer_id 
-having count(*) = (select count(*) from Product) 
+from Customer_count C join Product_cnt P
+on C.cnt = P.cnt
+
