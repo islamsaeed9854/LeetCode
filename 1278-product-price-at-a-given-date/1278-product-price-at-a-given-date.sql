@@ -1,11 +1,25 @@
-/* Write your T-SQL query statement below */
-
-with CTE as
-(
-    select *, iif(change_date <= '2019-08-16',row_number() over (partition by product_id  order by change_date) ,-1) as RN
-    from Products 
+-- Step 1: Find the last price for each product on or before the target date
+WITH LastPrices AS (
+    SELECT
+        product_id,
+        new_price,
+        -- Rank the changes for each product, with the most recent date getting rank 1
+        ROW_NUMBER() OVER(PARTITION BY product_id ORDER BY change_date DESC) as rn
+    FROM
+        Products
+    WHERE
+        change_date <= '2019-08-16'
+),
+-- Step 2: Get a unique list of all products
+AllProducts AS (
+    SELECT DISTINCT product_id FROM Products
 )
-select distinct product_id , iif(RN = -1 ,10 , new_price ) price 
-from CTE C1
-where C1.RN = (select max(C2.RN) from CTE C2 where C1.product_id = C2.product_id )
-
+-- Step 3: Join all products with their calculated last price
+SELECT
+    p.product_id,
+    -- If a product has no price on that date (lp.new_price is NULL), default to 10
+    ISNULL(lp.new_price, 10) AS price
+FROM
+    AllProducts p
+LEFT JOIN
+    LastPrices lp ON p.product_id = lp.product_id AND lp.rn = 1;
