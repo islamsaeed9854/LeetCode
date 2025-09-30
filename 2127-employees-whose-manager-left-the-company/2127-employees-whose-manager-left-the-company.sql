@@ -1,6 +1,14 @@
 /* Write your T-SQL query statement below */
 
-select employee_id 
-from Employees 
-where salary < 30000 and manager_id not in (select employee_id  from Employees )
+select E.employee_id 
+from Employees E left outer join Employees M on E.manager_id = M.employee_id
+where E.salary < 30000 and M.employee_id is null and E.manager_id is not null
 order by employee_id
+
+
+
+
+
+
+
+
