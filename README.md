@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
+| [0071-simplify-path](https://github.com/islamsaeed9854/LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/islamsaeed9854/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/islamsaeed9854/LeetCode/tree/master/0344-reverse-string) |
 ## Two Pointers
@@ -115,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0120-triangle](https://github.com/islamsaeed9854/LeetCode/tree/master/0120-triangle) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/islamsaeed9854/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
