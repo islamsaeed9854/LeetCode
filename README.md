@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/islamsaeed9854/LeetCode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/islamsaeed9854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -120,4 +121,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/islamsaeed9854/LeetCode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/islamsaeed9854/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
