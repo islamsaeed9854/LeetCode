@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/islamsaeed9854/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/islamsaeed9854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/islamsaeed9854/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/islamsaeed9854/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
 | [0071-simplify-path](https://github.com/islamsaeed9854/LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/islamsaeed9854/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/islamsaeed9854/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/islamsaeed9854/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/islamsaeed9854/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Bit Manipulation
