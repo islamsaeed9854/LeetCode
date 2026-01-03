@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/islamsaeed9854/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/islamsaeed9854/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/islamsaeed9854/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/islamsaeed9854/LeetCode/tree/master/0135-candy) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/islamsaeed9854/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/islamsaeed9854/LeetCode/tree/master/0049-group-anagrams) |
 | [0380-insert-delete-getrandom-o1](https://github.com/islamsaeed9854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/islamsaeed9854/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Math
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/islamsaeed9854/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/islamsaeed9854/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/islamsaeed9854/LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/islamsaeed9854/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/islamsaeed9854/LeetCode/tree/master/0344-reverse-string) |
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/islamsaeed9854/LeetCode/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/islamsaeed9854/LeetCode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
