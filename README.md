@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/islamsaeed9854/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/islamsaeed9854/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/islamsaeed9854/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0260-single-number-iii](https://github.com/islamsaeed9854/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/islamsaeed9854/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/islamsaeed9854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/islamsaeed9854/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/islamsaeed9854/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/islamsaeed9854/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/islamsaeed9854/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
