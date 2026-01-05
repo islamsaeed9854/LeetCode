@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/islamsaeed9854/LeetCode/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/islamsaeed9854/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/islamsaeed9854/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/islamsaeed9854/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
