@@ -3,7 +3,7 @@ public:
     int reverseBits(int n) {
         string bin_num ="";
         while(n){
-            if(n%2)
+            if(n&1)
               bin_num.push_back('1');
               else bin_num.push_back('0');
             n/=2;
