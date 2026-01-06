@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/islamsaeed9854/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/islamsaeed9854/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/islamsaeed9854/LeetCode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/islamsaeed9854/LeetCode/tree/master/0342-power-of-four) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/islamsaeed9854/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/islamsaeed9854/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/islamsaeed9854/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/islamsaeed9854/LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/islamsaeed9854/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/islamsaeed9854/LeetCode/tree/master/0344-reverse-string) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/islamsaeed9854/LeetCode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/islamsaeed9854/LeetCode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/islamsaeed9854/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/islamsaeed9854/LeetCode/tree/master/0260-single-number-iii) |
@@ -187,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/islamsaeed9854/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/islamsaeed9854/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
