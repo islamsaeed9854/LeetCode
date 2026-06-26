@@ -1,9 +1,8 @@
-# Write your MySQL query statement below
+/* Write your T-SQL query statement below */
 
 
 select M.name
-from Employee E
-join Employee M
-on M.id = E.managerID
-group by M.name,M.id
+from Employee M join Employee E
+on M.id = E.managerId
+group by m.id  , m.name
 having count(*) >= 5
