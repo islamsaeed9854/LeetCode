@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/islamsaeed9854/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/islamsaeed9854/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/islamsaeed9854/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/islamsaeed9854/LeetCode/tree/master/0067-add-binary) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/islamsaeed9854/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/islamsaeed9854/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/islamsaeed9854/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/islamsaeed9854/LeetCode/tree/master/0344-reverse-string) |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/islamsaeed9854/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0120-triangle](https://github.com/islamsaeed9854/LeetCode/tree/master/0120-triangle) |
 ## Stack
 |  |
