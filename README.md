@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/islamsaeed9854/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/islamsaeed9854/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/islamsaeed9854/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/islamsaeed9854/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/islamsaeed9854/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/islamsaeed9854/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/islamsaeed9854/LeetCode/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/islamsaeed9854/LeetCode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
