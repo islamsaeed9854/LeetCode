@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/islamsaeed9854/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/islamsaeed9854/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/islamsaeed9854/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/islamsaeed9854/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/islamsaeed9854/LeetCode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/islamsaeed9854/LeetCode/tree/master/0342-power-of-four) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/islamsaeed9854/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/islamsaeed9854/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/islamsaeed9854/LeetCode/tree/master/0120-triangle) |
 ## Stack
 |  |
@@ -217,4 +219,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0190-reverse-bits](https://github.com/islamsaeed9854/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/islamsaeed9854/LeetCode/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/islamsaeed9854/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
